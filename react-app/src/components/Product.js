@@ -8,6 +8,6 @@ const Product = ({ name, image, description, price, quantity}) =>{
             <p>Price: ${price}</p>
             <p>Quantity: {quantity}</p>
         </div>
-    );;
+    );
 };
 export default  Product;
