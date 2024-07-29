@@ -21,6 +21,7 @@ const Home = () => {
         price:19.99,
         quantity:20,
     },
+    
     ];
     return(
         <div>

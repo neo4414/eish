@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+{PROPS}    {REACT useState hooks}     {REACT hooks}
+
+
+
+
+how to create a navbar using router
+i opended my VScode and the i opened a new terminal and then i firstly cd into my app and then i run"npm install react-router-dom" and then run git checkout -b navigation to create my navigation branch. and then i move to my App.js and import {BrowserRouter as Router,Route, Switch} from 'react-router-dom' and then move to my component folder and crewate a navbar.jsx file. now in the file i import { Link } from "react-router-dom"; and then i create a component with the function and the i use                 <li><Link to ="/">Home</Link></li> and then i create a couple of pages from the component folder like about.jsx and contact.jsx and in each file i create function component and then i import them in my app.js file
+
+
+
+
+
+
